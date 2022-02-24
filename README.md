@@ -22,7 +22,7 @@
     <br> 
 </p>
 
-## 📝 Table of Contents
+## 📝 SUMÁRIO
 
 - [About](#about)
 - [Getting Started](#getting_started)
@@ -37,6 +37,8 @@
 ## 🧐 About <a name = "about"></a>
 
 Ambiente mais +simples, +facil, +otimizado.
+
+O Rancher Desktop é um ambiente de Kubernets onde voce pode escolher o CRI nerdctl. O Rancher Desktop  utiliza o K3S que é mais leve que o kubernets (K8S) tradicional.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
