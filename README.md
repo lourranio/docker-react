@@ -46,58 +46,42 @@ O Rancher Desktop é um ambiente de Kubernets onde voce pode escolher o CRI nerd
 - 2 Baixar respositorio
 - 3 Fazer o deploy
 - 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
 
-### Prerequisites
 
-What things you need to install the software and how to install them.
+### RANCHER DESKTOP
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="./images/logo-Rancher-Desktop.svg" alt="Project logo"></a>
+</p> -->
+
+- 1 Acesse a página de downloads no GitHub.
+  - link: https://github.com/rancher-sandbox/rancher-desktop/releases
+  - ou pagina home: https://rancherdesktop.io/
+- 2 Encontre a versão do Rancher Desktop que você deseja baixar. 
+
 
 ```
 Give examples
 ```
 
-### Installing
+### COMANDOS :blue_square:  :whale: nerd_face: 
 
-A step by step series of examples that tell you how to get a development env running.
 
-Say what the step will be
 
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
+- Container management
+  - :whale: ```nerdctl run``` : 
+  - :whale: ```nerdctl exec``` : 
+  - :whale: ```nerdctl ps``` : 
+  - :whale: ```nerdctl rm``` : 
+  - :whale: ```nerdctl restart``` : 
+  - :whale: ```nerdctl run``` : 
+  - :whale: ```nerdctl run``` : 
+  - :whale: ```nerdctl run``` :  
+  - :nerd_face: asd
 
 ## 🔧 Running the tests <a name = "tests"></a>
 
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
-
-Add notes about how to use the system.
-
+E
 ## Links <a name = "link"></a>
 
 - [MongoDB](https://www.mongodb.com/) - Database
@@ -105,4 +89,4 @@ Add notes about how to use the system.
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-🎉 ✍️ ⛏️ 🚀
+🎉 ✍️ ⛏️ 🚀 🔧
